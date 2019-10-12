@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "lodash.merge": "^4.6.0",
-    "scrollto-with-animation": "^4.5.2",
+    "scrollto-with-animation": "^4.5.3",
     "vue": "^2.5.2",
     "vue-disqus": "^2.0.3",
     "vue-router": "^3.0.1"
